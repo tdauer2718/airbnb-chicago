@@ -1,3 +1,8 @@
+# Data files
+listings.csv
+reviews.csv
+calendar.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
