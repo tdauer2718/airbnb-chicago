@@ -2,6 +2,7 @@
 listings.csv
 reviews.csv
 calendar.csv
+scaps.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
