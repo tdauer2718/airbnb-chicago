@@ -2,7 +2,10 @@
 listings.csv
 reviews.csv
 calendar.csv
-scaps.ipynb
+scraps.ipynb
+bedrooms_vs_price.jpg
+neighborhood_vs_price.jpg
+room_type_vs_price.jpg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
