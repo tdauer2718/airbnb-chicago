@@ -27,7 +27,7 @@ I've also provided "my_listing.csv", which is a hypothetical listing I created i
 
 ## Results <a name="results"></a>
 
-A summary of my findings is [here] on Medium.
+A summary of my findings is [here](https://medium.com/@tdauer2718/what-can-we-learn-from-open-chicago-airbnb-data-932d1dd0276) on Medium.
 
 ## Licensing and acknowledgements <a name="acknowledgements"></a>
 
