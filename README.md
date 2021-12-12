@@ -21,7 +21,9 @@ To be concrete, I came up with some problems to work on:
 
 ## File descriptions <a name="files"></a>
 
-The main notebook is "Chicago Airbnb Analysis.ipynb", where I attempt to make progress on these problems. I've also provided "my_listing.csv", which is a hypothetical listing I created in the proper format for my price predictor at the end of Part 1 in my notebook.
+The main notebook is "Chicago Airbnb Analysis.ipynb", where I attempt to make progress on these problems. My code and extensive comments and reasoning are in this notebook.
+
+I've also provided "my_listing.csv", which is a hypothetical listing I created in the proper format for my price predictor at the end of Part 1 in my notebook. If you want to price your own Chicago property, try changing the fields appropriately. My tests indicate that my price predictor does pretty well (20% error or less for half of listings given to it), but of course I make no guarantees about its accuracy for your particular case.
 
 ## Results <a name="results"></a>
 
