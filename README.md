@@ -31,4 +31,4 @@ A summary of my findings is [here](https://medium.com/@tdauer2718/what-can-we-le
 
 ## Licensing and acknowledgements <a name="acknowledgements"></a>
 
-This code is freely available under a GPL-3.0 License. Licensing information for the open Airbnb data can be found [here](http://insideairbnb.com/get-the-data.html). I want to thank Inside Airbnb for making this data freely available. I also want to thank all the developers who created and maintain the open-source software that makes this work and so much like it possible.
+This code is freely available under a GPL-3.0 License. Licensing information for the open Airbnb data can be found [here](http://insideairbnb.com/get-the-data.html); it is under a Creative Commons Attribution 4.0 International License. I want to thank Inside Airbnb for making this data freely available. I also want to thank all the developers who created and maintain the open-source software that makes this work and so much like it possible.
